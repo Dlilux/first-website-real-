@@ -1,0 +1,11 @@
+.hai {
+    background-color: greenyellow;
+    align-items: center;
+    text-align: center;
+    text-shadow: 3px 2px 1px grey;
+    font-size: 40px;
+}
+
+body {
+    background-color: yellow;
+}
